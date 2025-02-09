@@ -1,4 +1,4 @@
-# Predicting Malaria and Diarhea cases in Mozambique leveraging Machine learning regression
+# Predicting Malaria and Diarhea cases in Mozambique leveraging Machine learning.
 
 This repository consist of predicting malaria and diarrhea cases for each district in mozambique using machine learning model.
 
